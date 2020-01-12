@@ -1,8 +1,3 @@
-"""
-Created on Sat Nov 18 23:12:08 2017
-
-@author: Utku Ozbulak - github.com/utkuozbulak
-"""
 import os
 import numpy as np
 
