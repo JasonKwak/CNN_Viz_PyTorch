@@ -1,8 +1,3 @@
-"""
-Created on Wed Jan 17 08:05:11 2018
-
-@author: Utku Ozbulak - github.com/utkuozbulak
-"""
 import torch
 from torch.autograd import Variable
 from torch.optim import SGD
