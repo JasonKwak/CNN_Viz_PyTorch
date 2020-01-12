@@ -1,8 +1,3 @@
-"""
-Created on Thu Oct 26 11:19:58 2017
-
-@author: Utku Ozbulak - github.com/utkuozbulak
-"""
 import torch
 
 from misc_functions import get_example_params, convert_to_grayscale, save_gradient_images
