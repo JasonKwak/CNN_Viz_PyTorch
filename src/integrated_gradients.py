@@ -1,8 +1,3 @@
-"""
-Created on Wed Jun 19 17:06:48 2019
-
-@author: Utku Ozbulak - github.com/utkuozbulak
-"""
 import torch
 import numpy as np
 
